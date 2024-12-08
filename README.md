@@ -1,4 +1,4 @@
-# Royal Flavors E-Commerce Platform  
+# People Mart E-Commerce Platform  
 
 A feature-rich e-commerce website built with **React**, designed for a seamless and user-friendly shopping experience.  
 
