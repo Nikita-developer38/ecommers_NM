@@ -32,7 +32,7 @@ A feature-rich e-commerce website built with **React**, designed for a seamless 
 Check out the live version of the project: [Live Demo Link Here](https://people-mart-nikita.netlify.app/)  
 
 ## Demo Video
-check out demo video [./demo.mp4]
+check out demo video [People Mart](./demo.mp4)
 
 ## 💻 Installation and Setup  
 
